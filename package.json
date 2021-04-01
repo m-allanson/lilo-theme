@@ -1,0 +1,21 @@
+{
+    "name": "lilo-theme",
+    "displayName": "Lilo Theme",
+    "description": "ht theme with high contrast between foreground and background, but low contrast between between syntax colours.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lilo",
+                "uiTheme": "vs",
+                "path": "./themes/lilo-color-theme.json"
+            }
+        ]
+    }
+}
