@@ -35,4 +35,8 @@ Dracula PRO nails the first item and last items on that list. But I've never bee
 
 Copy files to ~/.vscode/extensions/lilo-theme
 
+```shell
+rm -fr ~/.vscode/extensions/lilo-theme && cp -r ./lilo-theme ~/.vscode/extensions/
+```
+
 **Enjoy!**
